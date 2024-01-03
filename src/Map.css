@@ -1,0 +1,85 @@
+.st0 {
+
+}
+
+.path{
+    fill: #606060;
+    stroke: #033A7C;
+    stroke-width: 1;
+    fill-rule: evenodd;
+    clip-rule: evenodd;
+    stroke: #033A7C;
+    stroke-width: 1;
+    stroke-miterlimit: 10;
+    transition: stroke 0.5s ease-in-out;
+}
+
+.path:hover{
+    stroke: red;
+    stroke-width: 3;
+}
+.zero {
+    fill: #606060;
+}
+
+.notzero {
+    fill: #F1EE24;
+}
+.st2 {
+    fill-rule: evenodd;
+    clip-rule: evenodd;
+    stroke: #033A7C;
+    stroke-width: 1;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+}
+.st3 {
+    stroke: #033A7C;
+    stroke-width: 1;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+}
+.st4 {
+    fill-rule: evenodd;
+    clip-rule: evenodd;
+    stroke: #033A7C;
+    stroke-width: 1;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+}
+.st5 {
+    fill-rule: evenodd;
+    clip-rule: evenodd;
+    stroke: #033A7C;
+    stroke-width: 1;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+}
+.st6 {
+    fill-rule: evenodd;
+    clip-rule: evenodd;
+    stroke: #033A7C;
+    stroke-width: 1;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+}
+.st7 {
+    fill-rule: evenodd;
+    clip-rule: evenodd;
+
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+}
+.st8 {
+    fill-rule: evenodd;
+    clip-rule: evenodd;
+    stroke: #033A7C;
+    stroke-width: 1;
+    stroke-miterlimit: 10;
+}
